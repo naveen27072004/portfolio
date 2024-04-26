@@ -1,0 +1,44 @@
+div.a a{
+    text-decoration: none;
+    padding-left: 20px;
+    color: black;
+}
+div.a a:hover{
+    color: orange;
+}
+h1{
+color: black;
+} 
+h2.hello{margin-left: 20%;
+margin-top: 20%;
+}
+.myimg{
+    margin-top: 10%;
+}
+span{
+    color: orange;
+}
+.skill{
+    margin-left: 35px;
+    border: 1px solid black;
+}
+.skill:hover{
+    border: 2px solid orange;
+}
+button.btn{margin-top: 10px; margin-left: 50%; border-radius: 25%;
+border: 1px solid black;
+color: orange;
+}
+button.btn:hover{
+    color: whitesmoke;
+    background-color: orange;
+}
+div.stcky{
+    background-color: light;
+    position: sticky;
+    top: 0%;
+}
+div.abt{
+    margin-top: 10%;
+}
+h1.abth1{margin-bottom: 50px;}
